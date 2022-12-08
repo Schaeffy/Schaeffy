@@ -28,6 +28,11 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 
+<h2> Stats </h2>
+
+![Schaeffers's GitHub stats](https://github-readme-stats.vercel.app/api?username=schaeffy&show_icons=true&theme=transparent&line_height=40) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schaeffy)](https://github.com/schaeffy/github-readme-stats)
+
+
 <h2> Contact Me </h2>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/SchaefferAhn)

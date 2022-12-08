@@ -1,7 +1,17 @@
+
 <h1 align="center">
-  Hey, my name is Schaeffer
+  Hi, I'm Schaeffer
+  
+  <br></br>
+  
+ ![original](https://user-images.githubusercontent.com/79663621/206535572-56768832-5cda-42be-a16d-d4eb681f56fd.gif)
   </h1>
   
+
+  
+  
+
+
 <h2>Languages</h2>
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

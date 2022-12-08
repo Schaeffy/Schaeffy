@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi, I'm Schaeffer
+  Hi, my name is Schaeffer
   
   <br></br>
   
